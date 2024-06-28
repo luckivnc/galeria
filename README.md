@@ -9,7 +9,7 @@
 
 ![image](https://github.com/luckivnc/galeria/assets/162721478/5f6c71e2-40cf-45c9-9054-3794ff2d4b43)
 
-###### a paginação ja foi feita só falta ajustar o espaçamento das imagens no css
+
 
 
 
